@@ -3,56 +3,56 @@
     "kode": "P001",
     "nama": "Pisang Ambon",
     "harga": 12000,
-    "satuan": "kg",
+    "satuan": "/ kg",
     "promo": "Diskon 10%"
   },
   "mangga": {
     "kode": "P002",
     "nama": "Mangga Harum Manis",
     "harga": 15000,
-    "satuan": "kg",
+    "satuan": "/ kg",
     "promo": ""
   },
   "telur": {
     "kode": "P003",
     "nama": "Telur Ayam Negeri",
     "harga": 27000,
-    "satuan": "kg",
-    "promo": "Beli 1 gratis 2"
+    "satuan": "/ kg",
+    "promo": "Beli 10 gratis 1"
   },
   "kopi": {
     "kode": "P004",
     "nama": "Kopi Bubuk Hitam",
     "harga": 18000,
     "satuan": "pak",
-    "promo": "Gratis stiker"
+    "promo": ""
   },
   "beras": {
     "kode": "P005",
     "nama": "Beras Premium 5kg",
     "harga": 56000,
-    "satuan": "5kg",
+    "satuan": "/ pack",
     "promo": ""
   },
   "gula": {
     "kode": "P006",
     "nama": "Gula Pasir Putih",
     "harga": 14500,
-    "satuan": "kg",
-    "promo": "Diskon 5%"
+    "satuan": "/ kg",
+    "promo": "Diskon 2.5%"
   },
   "susu": {
     "kode": "P007",
     "nama": "Susu Kental Manis",
     "harga": 24000,
-    "satuan": "kaleng",
-    "promo": "Buy 2 get 1"
+    "satuan": "/ kaleng",
+    "promo": "Beli 10 Gratis 1"
   },
   "teh": {
     "kode": "P008",
     "nama": "Teh Celup Wangi",
     "harga": 9000,
-    "satuan": "kotak",
+    "satuan": "/ kotak",
     "promo": ""
   }
 }
