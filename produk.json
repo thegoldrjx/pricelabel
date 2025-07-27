@@ -1,17 +1,17 @@
 {
   "pisang": {
     "kode": "P001",
-    "nama": "Pisang Ambon",
-    "harga": 13000,
+    "nama": "Pisang Raja",
+    "harga": 15500,
     "satuan": "/ kg",
-    "promo": "Diskon 10%"
+    "promo": "GABUNG MEMBERSHIP KAMI, DISKON 10%"
   },
   "mangga": {
     "kode": "P002",
     "nama": "Mangga Harum Manis",
     "harga": 16000,
     "satuan": "/ kg",
-    "promo": "Diskon 2.5%"
+    "promo": "KHUSUS MEMBER DISKON 10%"
   },
   "telur": {
     "kode": "P003",
