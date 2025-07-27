@@ -30,9 +30,9 @@
   "beras": {
     "kode": "P005",
     "nama": "Beras Premium 5kg",
-    "harga": 56000,
+    "harga": 56500,
     "satuan": "/ pack",
-    "promo": ""
+    "promo": "Beli 2 Gratis Telur"
   },
   "gula": {
     "kode": "P006",
