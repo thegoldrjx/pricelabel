@@ -2,16 +2,16 @@
   "pisang": {
     "kode": "P001",
     "nama": "Pisang Ambon",
-    "harga": 12000,
+    "harga": 13000,
     "satuan": "/ kg",
     "promo": "Diskon 10%"
   },
   "mangga": {
     "kode": "P002",
     "nama": "Mangga Harum Manis",
-    "harga": 15000,
+    "harga": 16000,
     "satuan": "/ kg",
-    "promo": ""
+    "promo": "Diskon 2.5%"
   },
   "telur": {
     "kode": "P003",
@@ -22,8 +22,8 @@
   },
   "kopi": {
     "kode": "P004",
-    "nama": "Kopi Bubuk Hitam",
-    "harga": 18000,
+    "nama": "Kopi Bubuk",
+    "harga": 15000,
     "satuan": "/ pack",
     "promo": ""
   },
