@@ -2,9 +2,9 @@
   "pisang": {
     "kode": "P001",
     "nama": "Pisang Raja",
-    "harga": 15500,
+    "harga": 13000,
     "satuan": "/ kg",
-    "promo": "GABUNG MEMBERSHIP KAMI, DISKON 10%"
+    "promo": "Khusus member DISKON 10%"
   },
   "mangga": {
     "kode": "P002",
